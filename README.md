@@ -5,5 +5,5 @@
 # 20170225 1624 sph added this line for experimentation.
 
 # 20170225 1907 sph real changes begin
-#                   what happens when we force a conflict
+# -------- ---- --- what happens when we force a conflict?
 
